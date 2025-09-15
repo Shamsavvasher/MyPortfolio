@@ -29,8 +29,8 @@ export function Projects() {
         "Developed a K-Means clustering app in Streamlit to segment customers into 4 groups, enabling targeted marketing and personalized offers.",
       image: "/customer_segment_img.jpg",
       technologies: ["Python", "Scikit-learn", "K-Means Clustering", "Streamlit"],
-      github: "#",
-      demo: "#",
+      github: "https://github.com/Shamsavvasher/Customer_Segmentation",
+      // demo: "#",
     },
     {
       title: "Bank Loan Analysis Dashboard",
@@ -39,7 +39,7 @@ export function Projects() {
       image: "/Bank_loan_img.png",
       technologies: ["Python", "Power BI", "SQL", "DAX"],
       github: "https://github.com/Shamsavvasher/Bank_Loan_Analysis",
-      demo: "#",
+      // demo: "#",
     },
     // {
     //   title: "COVID-19 Tracker Dashboard",
