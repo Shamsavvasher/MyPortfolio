@@ -12,7 +12,7 @@ export function Projects() {
       image: "/real-Estate.jpg",
       technologies: ["Python", "Streamlit", "scikit-learn", "AWS",],
       github: "https://github.com/Shamsavvasher/Real-Estate-Web-Application-",
-      demo: "https://real-estate-web-application.streamlit.app/",
+      demo: "https://end-to-end-real-estate-web-app-crcmwvzwvqsjrxz96k3ujj.streamlit.app/",
     },
     {
       title: "Book Recommendation System",
